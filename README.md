@@ -22,3 +22,9 @@ El proyecto final integra los conceptos aprendidos en el curso en un solo proyec
   - **Prueba**: Permite a los usuarios realizar ejercicios matemáticos y verifica las respuestas.
   - **Calificación**: Muestra el puntaje obtenido en la prueba.
 
+## Cómo Ejecutar
+
+1. **Accede a los archivos**:
+   - Los archivos del curso están disponibles en [Google Drive](https://drive.google.com/drive/folders/1LV4L7nt39gx3p9S-Mvn7TgH5uBblzGJ1?usp=sharing).
+
+2. **Descarga los archivos** y ejecuta cada script utilizando Python.
